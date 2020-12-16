@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>    
+    </title>
+  </head>
+  <body align="center" >
+    <h1>     Exam Entry Form  </h1>
+    <p>      Name 
+    <input type="text"value="""></p>
+    <p>      subject
+    <input type="text"value="""></p>
+    <tr>
+        <td colspan="2" align="center">
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+        </td>
+        </tr>
+  </body>
+</html>
